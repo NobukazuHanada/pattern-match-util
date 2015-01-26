@@ -14,7 +14,7 @@ Just add it to your ``rebar.config`` deps:
   {deps, [
     ...
     {pattern-match-util, ".*",
-      {git, "git@github.com:YOURNAME/pattern-match-util.git", "master"}}
+      {git, "git@github.com:NobukazuHanada//pattern-match-util.git", "master"}}
       ]}.
 ```
 
